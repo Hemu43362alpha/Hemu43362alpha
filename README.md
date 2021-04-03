@@ -24,20 +24,19 @@ Besides programming, I love to play Video Games 🎮 and Explore new things on i
   <img align="left" alt="Hemant Patel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://hemant-patel.medium.com/">
-  <img align="left" alt="Hemant Patel's Medium" width="22px" src="https://svgshare.com/i/VjH.svg" />
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/hemu4462/">
-  <img align="left" alt="Hemant Patel's Geeksforgeeks" width="22px" src="https://svgshare.com/i/VkL.svg" />
-</a>
-<a href="https://stackoverflow.com/users/14763057/hemant-patel">
-  <img align="left" alt="hemant Patel's Youtube" width="22px" src="https://user-images.githubusercontent.com/81707452/113473002-68379880-9484-11eb-810c-a3b9839d487f.png"/>
+  <img align="left" alt="Hemant Patel's Medium" width="22px" height src="https://svgshare.com/i/VjH.svg" />
 </a>
 <a href="https://instagram.com/hemantp4tel/">
   <img align="left" alt="Hemant Patel's Instagram" width="22px" src="https://svgshare.com/i/Vj7.svg" />
 </a>
 <a href="https://t.me/HemantP4tel">
   <img align="left" alt="Hemant Patel's Telegram" width="22px" src="https://svgshare.com/i/Vk8.svg" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/hemu4462/">
+  <img align="left" alt="Hemant Patel's Geeksforgeeks" width="22px" src="https://svgshare.com/i/VkL.svg" />
+</a>
+<a href="https://stackoverflow.com/users/14763057/hemant-patel">
+  <img align="left" alt="hemant Patel's Youtube" width="22px" src="https://user-images.githubusercontent.com/81707452/113473002-68379880-9484-11eb-810c-a3b9839d487f.png"/>
 </a>
 <a href="https://www.linkedin.com/in/hemant-patel-android-app-developer/">
   <img align="left" alt="Hemant Patel's Linkdein" width="24px" src="https://user-images.githubusercontent.com/81707452/113472651-3e7d7200-9482-11eb-8963-de30ca06641d.png" />  
