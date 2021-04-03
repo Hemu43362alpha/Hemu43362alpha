@@ -43,8 +43,6 @@ Besides programming, I love to play Video Games 🎮 and Explore new things on i
 </a>
 </br>
 <br/>
-</br>
-<br/>
 <b>Technologies and Tools I use</b></br>
 <img height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
