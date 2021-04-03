@@ -17,8 +17,7 @@ Besides programming, I love to play Video Games 🎮 and Explore new things on i
 •  Fun fact: I can sleep for 12 hours straight</br>
 •  I'm always open to have a chit-chat with you :) </br>
 -->
-•  How to reach me: </br>
-
+<b>How to reach me:</b></br>
 <a href="https://www.linkedin.com/in/hemant-patel-android-app-developer/">
   <img align="left" alt="Hemant Patel's Linkdein" width="22px" src="https://svgshare.com/i/ViU.svg" />  
 </a>
@@ -40,18 +39,6 @@ Besides programming, I love to play Video Games 🎮 and Explore new things on i
 <a href="https://www.youtube.com/channel/UCA5u7UsgPS-aJqOjQoQPjPQ">
   <img align="left" alt="Siddharth's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<br/>
-<br/>
-
-
-
-
-<br/>
-<br/>
-</br>
-<a href="https://github.com/Hemu43362"><img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757__340.png"/></a>
-<a href="https://www.linkedin.com/in/hemant-patel-android-app-developer/"><img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700__340.png"/></a>
-<a href="#"><img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266__340.jpg"/></a>
 </br>
 <br/>
 </br>
