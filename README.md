@@ -22,7 +22,7 @@ Besides programming, I love to play Video Games 🎮 and Explore new things on i
   <img align="left" alt="Hemant Patel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.linkedin.com/in/hemant-patel-android-app-developer/">
-  <img align="left" alt="Hemant Patel's Linkdein" width="22px" src="https://svgshare.com/i/ViU.svg" />  
+  <img align="left" alt="Hemant Patel's Linkdein" width="22px" src="https://user-images.githubusercontent.com/81707452/113472651-3e7d7200-9482-11eb-8963-de30ca06641d.png" />  
 </a>
 <a href="https://hemant-patel.medium.com/">
   <img align="left" alt="Hemant Patel's Medium" width="22px" src="https://svgshare.com/i/VjH.svg" />
