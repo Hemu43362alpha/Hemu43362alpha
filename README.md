@@ -1,9 +1,9 @@
 ## Hello Everyone! <img src="https://user-images.githubusercontent.com/81707452/113471561-d7a88a80-947a-11eb-9966-4f05614a16b5.gif" width="30px">
 
-I am <a href="https://github.com/Hemu43362" style="text-decoration:none;"><b> Hemant Patel</b> </a>,
-Android App developer || UI Designer || Competative Programmer
-I'm currently pursuing my B.Tech Second Year in Information-Technology stream from National Institute of Technology Raipur.
-Currently working on make Android Apps with Android Studio Using JAVA language. Also I can design & create prototypes in Adobe XD.
+I am <a href="https://github.com/Hemu43362" style="text-decoration:none;"><b> Hemant Patel</b> </a>,</br>
+Android App developer || UI Designer || Competative Programmer </br>
+I'm currently pursuing my B.Tech Second Year in Information-Technology stream from National Institute of Technology Raipur.</br>
+Currently working on make Android Apps with Android Studio Using JAVA language. Also I can design & create prototypes in Adobe XD.</br>
 Besides programming, I love to play Video Games 🎮 and Explore new things on internet.
 </br>
 <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
