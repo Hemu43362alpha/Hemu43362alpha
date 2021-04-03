@@ -2,7 +2,8 @@
 I am <a href="https://github.com/Hemu43362" style="text-decoration:none;"><b> Hemant Patel</b> </a>,
 Android App developer || UI Designer || Competative Programmer
 I'm currently pursuing my B.Tech Second Year in Information-Technology stream from National Institute of Technology Raipur.
-Currently working on make Android Apps with Android Studio Using JAVA language. Also I can design & create prototypes in Adobe XD. Besides programming, I love to play Video Games 🎮 and Explore new things on internet.
+Currently working on make Android Apps with Android Studio Using JAVA language. Also I can design & create prototypes in Adobe XD.
+Besides programming, I love to play Video Games 🎮 and Explore new things on internet.
 </br>
 <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 </br>
@@ -32,55 +33,4 @@ Currently working on make Android Apps with Android Studio Using JAVA language. 
 <img height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 </br>
 </br>
-<img src="https://github-readme-stats.vercel.app/api?username=Gautam-Arora24&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**Hemu43362alpha/Hemu43362alpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=Hemu43362&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
