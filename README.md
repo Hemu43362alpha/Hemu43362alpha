@@ -3,9 +3,7 @@
 I am <a href="https://github.com/Hemu43362" style="text-decoration:none;"><b> Hemant Patel</b> </a>,</br>
 Android App developer <img width="20px" src="https://user-images.githubusercontent.com/81707452/113473683-b058ba00-9488-11eb-8354-d937f88d8920.png"/>
  | UI Designer <img width="20px" src="https://user-images.githubusercontent.com/81707452/113473790-6d4b1680-9489-11eb-9d7c-ef44c8f2c454.png"/>
- | Competative Programmer <img width="20px" src="https://user-images.githubusercontent.com/81707452/113473889-fa8e6b00-9489-11eb-9bc6-8ec5fe71580e.png"/>
-
- </br>
+ | Competative Programmer <img width="20px" src="https://user-images.githubusercontent.com/81707452/113473889-fa8e6b00-9489-11eb-9bc6-8ec5fe71580e.png"/> </br>
 I'm currently pursuing my B.Tech Second Year in Information-Technology stream from National Institute of Technology Raipur.</br>
 Currently working on make Android Apps with Android Studio Using JAVA language. Also I can design & create prototypes in Adobe XD.</br>
 Besides programming, I love to play Video Games 🎮 and Explore new things on internet.
@@ -50,12 +48,12 @@ Besides programming, I love to play Video Games 🎮 and Explore new things on i
 </br>
 <br/>
 <b>Technologies and Tools I use</b></br>
-<img height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-<img height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
-<img height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
-<img height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+<img align="left" height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+<img align="left" height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+<img align="left" height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
+<img align="left" height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
+<img align="left" height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 </br>
 <img align="right" height="auto" width="450px" src="https://github-readme-stats.vercel.app/api?username=Hemu43362&&show_icons=true&title_color=ffffff&icon_color=00B2DF&text_color=daf7dc&bg_color=003140"/>
 
