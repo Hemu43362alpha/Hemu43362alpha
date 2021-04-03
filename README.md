@@ -1,4 +1,5 @@
-## Hello Everyone! 👋
+## Hello Everyone! <img src="https://user-images.githubusercontent.com/81707452/113471561-d7a88a80-947a-11eb-9966-4f05614a16b5.gif" width="30px">
+
 I am <a href="https://github.com/Hemu43362" style="text-decoration:none;"><b> Hemant Patel</b> </a>,
 Android App developer || UI Designer || Competative Programmer
 I'm currently pursuing my B.Tech Second Year in Information-Technology stream from National Institute of Technology Raipur.
