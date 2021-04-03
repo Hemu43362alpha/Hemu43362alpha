@@ -6,7 +6,7 @@ I'm currently pursuing my B.Tech Second Year in Information-Technology stream fr
 Currently working on make Android Apps with Android Studio Using JAVA language. Also I can design & create prototypes in Adobe XD.</br>
 Besides programming, I love to play Video Games 🎮 and Explore new things on internet.
 </br>
-<img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" height="350px" width="auto" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 </br>
 <b>Talking About Myself</b></br>
 •  I like to explore new things on internet and working on something new cool technology and ideas 
