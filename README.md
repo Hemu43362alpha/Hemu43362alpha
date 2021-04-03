@@ -21,9 +21,6 @@ Besides programming, I love to play Video Games 🎮 and Explore new things on i
 <a href="https://github.com/Hemu43362">
   <img align="left" alt="Hemant Patel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.linkedin.com/in/hemant-patel-android-app-developer/">
-  <img align="left" alt="Hemant Patel's Linkdein" width="22px" src="https://user-images.githubusercontent.com/81707452/113472651-3e7d7200-9482-11eb-8963-de30ca06641d.png" />  
-</a>
 <a href="https://hemant-patel.medium.com/">
   <img align="left" alt="Hemant Patel's Medium" width="22px" src="https://svgshare.com/i/VjH.svg" />
 </a>
@@ -33,11 +30,14 @@ Besides programming, I love to play Video Games 🎮 and Explore new things on i
 <a href="https://t.me/HemantP4tel">
   <img align="left" alt="Hemant Patel's Telegram" width="22px" src="https://svgshare.com/i/Vk8.svg" />
 </a>
-<a href="https://www.facebook.com/profile.php?id=100035680522536">
+<a href="#">
   <img align="left" alt="Siddharth's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCA5u7UsgPS-aJqOjQoQPjPQ">
+<a href="#">
   <img align="left" alt="Siddharth's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
+</a>
+<a href="https://www.linkedin.com/in/hemant-patel-android-app-developer/">
+  <img align="left" alt="Hemant Patel's Linkdein" width="22px" src="https://user-images.githubusercontent.com/81707452/113472651-3e7d7200-9482-11eb-8963-de30ca06641d.png" />  
 </a>
 </br>
 <br/>
