@@ -18,6 +18,37 @@ Besides programming, I love to play Video Games 🎮 and Explore new things on i
 •  I'm always open to have a chit-chat with you :) </br>
 -->
 •  How to reach me: </br>
+
+<a href="https://www.linkedin.com/in/hemant-patel-android-app-developer/">
+  <img align="left" alt="Hemant Patel's Linkdein" width="22px" src="https://svgshare.com/i/ViU.svg" />  
+</a>
+<a href="https://github.com/Hemu43362">
+  <img align="left" alt="Hemant Patel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://hemant-patel.medium.com/">
+  <img align="left" alt="Hemant Patel's Medium" width="22px" src="https://svgshare.com/i/VjH.svg" />
+</a>
+<a href="https://instagram.com/hemantp4tel/">
+  <img align="left" alt="Hemant Patel's Instagram" width="22px" src="https://svgshare.com/i/Vj7.svg" />
+</a>
+<a href="https://t.me/HemantP4tel">
+  <img align="left" alt="Hemant Patel's Telegram" width="22px" src="https://svgshare.com/i/Vk8.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100035680522536">
+  <img align="left" alt="Siddharth's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCA5u7UsgPS-aJqOjQoQPjPQ">
+  <img align="left" alt="Siddharth's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<br/>
+<br/>
+
+
+
+
+<br/>
+<br/>
+</br>
 <a href="https://github.com/Hemu43362"><img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757__340.png"/></a>
 <a href="https://www.linkedin.com/in/hemant-patel-android-app-developer/"><img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700__340.png"/></a>
 <a href="#"><img height="30px" width="30px" src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266__340.jpg"/></a>
