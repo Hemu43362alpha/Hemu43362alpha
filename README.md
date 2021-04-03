@@ -17,7 +17,9 @@ Besides programming, I love to play Video Games 🎮 and Explore new things on i
 •  Fun fact: I can sleep for 12 hours straight</br>
 •  I'm always open to have a chit-chat with you :) </br>
 -->
-<b>How to reach me:</b> </br>
+<b>How to reach me:</b> 
+</br>
+</br>
 <a href="https://github.com/Hemu43362">
   <img align="left" alt="Hemant Patel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -31,13 +33,13 @@ Besides programming, I love to play Video Games 🎮 and Explore new things on i
   <img align="left" alt="Hemant Patel's Telegram" width="22px" src="https://svgshare.com/i/Vk8.svg" />
 </a>
 <a href="#">
-  <img align="left" alt="Siddharth's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Hemant Patel's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="#">
-  <img align="left" alt="Siddharth's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
+  <img align="left" alt="hemant Patel's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/hemant-patel-android-app-developer/">
-  <img align="left" alt="Hemant Patel's Linkdein" width="22px" src="https://user-images.githubusercontent.com/81707452/113472651-3e7d7200-9482-11eb-8963-de30ca06641d.png" />  
+  <img align="left" alt="Hemant Patel's Linkdein" width="24px" src="https://user-images.githubusercontent.com/81707452/113472651-3e7d7200-9482-11eb-8963-de30ca06641d.png" />  
 </a>
 </br>
 <br/>
