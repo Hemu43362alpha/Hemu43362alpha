@@ -34,5 +34,4 @@ Besides programming, I love to play Video Games 🎮 and Explore new things on i
 </br>
 </br>
 </br>
-</br>
 <img align="right" height="auto" width="450px" src="https://github-readme-stats.vercel.app/api?username=Hemu43362&&show_icons=true&title_color=ffffff&icon_color=00B2DF&text_color=daf7dc&bg_color=003140"/>
